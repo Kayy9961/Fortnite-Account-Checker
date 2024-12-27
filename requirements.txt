@@ -1,0 +1,4 @@
+requests==2.31.0
+cloudscraper==1.2.69
+colorama==0.4.6
+psutil==5.9.6
